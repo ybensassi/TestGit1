@@ -1,5 +1,0 @@
-clear
-g++ -c serveur.cpp -o serveur.o -lpthread
-g++ -o serveur serveur.o  -lpthread
-cc client.c -lpthread -o client
-
