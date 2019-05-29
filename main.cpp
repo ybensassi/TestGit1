@@ -4,6 +4,10 @@
 
 int main(int argc, char** argv) {
 	std::cout<<"Hello I am youssef......."<<std::endl;
+<<<<<<< HEAD
+=======
+	std::cout<<"Hello All...."<<std::endl;
+>>>>>>> copy1
 	std::cout<<"Hello......."<<std::endl;
 	return 0;
 }
